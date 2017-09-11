@@ -1,4 +1,6 @@
-import asyncio, aiohttp
+import asyncio
+import aiohttp
+
 
 async def tasks():
     url = 'http://aiohttp.readthedocs.io/en/stable/_modules/aiohttp/client_reqrep.html' # "http://cwer.ws/"
